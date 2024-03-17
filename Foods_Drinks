@@ -1,0 +1,48 @@
+{
+  "foods": [
+    {
+      "id": "food1",
+      "name": "Pizza",
+      "ingredients": ["dough", "tomato sauce", "cheese", "toppings"],
+      "price": 10.99,
+      "barcode": "123456789"
+    },
+    {
+      "id": "food2",
+      "name": "Burger",
+      "ingredients": ["beef patty", "bun", "lettuce", "tomato", "onion", "cheese"],
+      "price": 8.49,
+      "barcode": "987654321"
+    },
+    {
+      "id": "food3",
+      "name": "Pasta",
+      "ingredients": ["pasta", "tomato sauce", "parmesan cheese", "basil"],
+      "price": 12.99,
+      "barcode": "246813579"
+    }
+  ],
+  "drinks": [
+    {
+      "id": "drink1",
+      "name": "Cola",
+      "ingredients": ["carbonated water", "sugar", "caramel color", "caffeine", "phosphoric acid"],
+      "price": 2.49,
+      "barcode": "135792468"
+    },
+    {
+      "id": "drink2",
+      "name": "Orange Juice",
+      "ingredients": ["orange juice concentrate", "water", "sugar"],
+      "price": 3.99,
+      "barcode": "864207531"
+    },
+    {
+      "id": "drink3",
+      "name": "Iced Tea",
+      "ingredients": ["tea leaves", "water", "sugar", "lemon slices", "ice"],
+      "price": 2.99,
+      "barcode": "579318642"
+    }
+  ]
+}
