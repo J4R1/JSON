@@ -1,0 +1,11 @@
+{
+  "id": "123456",
+  "name": "Contoso Ltd.",
+  "address": "123 Main St",
+  "city": "Seattle",
+  "state": "WA",
+  "postalCode": "98101",
+  "country": "USA",
+  "phone": "555-123-4567",
+  "email": "info@contoso.com"
+}
